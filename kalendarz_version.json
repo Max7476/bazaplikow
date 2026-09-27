@@ -1,16 +1,14 @@
 {
   "enabled": true,
   "app": "Kalendarz Szkolny",
-  "version": "0.9.3",
+  "version": "0.9.4",
   "published_at": "2026-09-27",
   "notes": [
-    "Stabilna wersja 0.9.3.",
-    "Dodano przypomnienia.",
-    "Dodano sortowanie wydruku.",
-    "Dodano obsługę świąt w wydruku.",
-    "Poprawiono przycisk Dzisiaj."
+    "Poprawiono dopasowanie okien do małych ekranów i skalowania Windows.",
+    "Dodano przewijanie długich formularzy.",
+    "Zmniejszono pole Notatka do około dwóch widocznych linii."
   ],
-  "filename": "KalendarzSzkolny_Setup_0.9.3.exe",
-  "download_url": "https://github.com/Max7476/bazaplikow/releases/download/v.0.9.3/KalendarzSzkolny_Setup_0.9.3.exe",
-  "sha256": "18ddf0265f7f0e846ffdbd951a5039291e88dc67d8cb97b0787ec92727ff65e0"
+  "filename": "KalendarzSzkolny_Setup_0.9.4.exe",
+  "download_url": "https://github.com/Max7476/bazaplikow/releases/download/v0.9.4/KalendarzSzkolny_Setup_0.9.4.exe",
+  "sha256": "3abd41ff95a4a75e92c9a81618cab9a1f8c1ce8aaa037c983e08e274d7cfaf3c"
 }
