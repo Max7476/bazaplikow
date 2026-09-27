@@ -1,16 +1,16 @@
 {
   "enabled": true,
   "app": "Kalendarz Szkolny",
-  "version": "0.9.0",
+  "version": "0.9.3",
   "published_at": "2026-09-27",
   "notes": [
-    "Pierwsze publiczne wydanie Kalendarza Szkolnego.",
-    "Dodano wydarzenia cykliczne.",
-    "Dodano drukowanie i eksport PDF.",
-    "Dodano profile wydruku i filtrowanie kategorii.",
-    "Dodano kopie bezpieczeństwa i system aktualizacji."
+    "Stabilna wersja 0.9.3.",
+    "Dodano przypomnienia.",
+    "Dodano sortowanie wydruku.",
+    "Dodano obsługę świąt w wydruku.",
+    "Poprawiono przycisk Dzisiaj."
   ],
-  "filename": "KalendarzSzkolny_Setup_0.9.0.exe",
-  "download_url": "https://github.com/Max7476/bazaplikow/releases/download/v0.9.0/KalendarzSzkolny_Setup_0.9.0.exe",
-  "sha256": "99e9860ffe99f8805bbdc7c7f9b88af08de452eef06b0b73fd29084eaf699cde"
+  "filename": "KalendarzSzkolny_Setup_0.9.3.exe",
+  "download_url": "https://github.com/Max7476/bazaplikow/releases/download/v0.9.3/KalendarzSzkolny_Setup_0.9.3.exe",
+  "sha256": "18ddf0265f7f0e846ffdbd951a5039291e88dc67d8cb97b0787ec92727ff65e0"
 }
